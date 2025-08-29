@@ -2,7 +2,7 @@
 
 This project demonstrates a **Next Word Prediction** system using a deep learning approach. The model predicts the next word(s) in a given sequence of text based on a dataset derived from the book *The Modern Prometheus*.
 
-## Features
+## Features 
 - Tokenizes text and creates sequences for training.
 - Uses a **LSTM-based neural network** for next word prediction.
 - Implements **ROUGE evaluation** to assess the quality of predictions.
